@@ -1,0 +1,49 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background: snow;
+  }
+  
+  h1 {
+    font-size: 3em;
+    font-weight: 900;
+    margin: .5em auto;
+  }
+  
+  h2{
+    font-size: 1.5em;
+    color: darkslategray;
+    margin: .5em auto;
+  }
+  
+  table {
+    border: 2px dashed cadetblue;
+    width: 800px;
+    border-spacing: 4px;
+  }
+  
+  thead {
+    background-color: teal;
+  }
+  
+  th {
+    color: rgba(255, 255, 255, 0.80);
+    font-weight: 800;
+    font-size: 1.25em;
+    padding: 8px 12px;
+    border-radius: 4px;
+  }
+  
+  td {
+    border-top: 2px solid cadetblue;
+    font-size: 1em;
+    padding: 8px;
+    text-align: start;
+    background-color: rgba(0, 128, 128, 0.20);
+    line-height: 1.5em;
+  }
+  
+  code {
+    font-family: monospace;
+    padding: 2px;
+    background-color: blanchedalmond;
+  }
